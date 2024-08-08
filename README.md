@@ -12,3 +12,4 @@ Jogo da Cobrinha básico desenvolvido em python utilizando a biblioteca Turtle.
 
 Este projeto foi um dos primeiros projetos que desenvolvi enquanto aprendia Python. O projeto me ajudou muito quando eu estava tendo dificuldades para aprender alguns conceitos da Programação Orientada a Objeto.
 
+<img src="./img/snake.png">
