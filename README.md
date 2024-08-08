@@ -14,4 +14,4 @@ Este projeto foi um dos primeiros projetos que desenvolvi enquanto aprendia Pyth
 
 <br />
 
-<img src="./img/snake.png">
+<img src="./img/snake.png" width="200px" height="200px">
